@@ -1,12 +1,3 @@
-# Cadastra
-# Remover
-# Editar
-# Buscar por ID
-# Buscas Lista
-# Emprestar
-# Devolver
-
-
 class Livro:
     def __init__(self,codigo,titulo,autor,categoria,emprestado,preco):
         self.codigo = codigo
